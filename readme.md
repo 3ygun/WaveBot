@@ -52,3 +52,14 @@ Follow Brian Sherwin's guide to do so [here](http://briansherwin.com/blog/2015/0
 ### 4) Build your desired robot
 I have included images of my wave bot however feel free to create the robot that fits you!
 My bot is escentially a hollow box 8x6x11 (Width x Depth x Height)
+![WaveBot front](images/WP_20150518_002.jpeg "WaveBot Front")
+![WaveBot moving arm](images/WP_20150518_005.jpeg "WaveBot moving arm")
+![WaveBot other arm](images/WP_20150518_009.jpeg "WaveBot other arm")
+![WaveBot head](images/WP_20150518_006.jpeg "WaveBot head")
+
+### 5) Build out your circuit on the breadboard
+Here is what mine looks like (Better diagram will to come)
+![WaveBot circuit](images/WP_20150518_008.jpeg "WaveBot circuit")
+
+### 6) Make the nessasary changes to waveBot.cpp and "Flash" the finished code to the Core
+You will need to modify waveBot.cpp to include the necessary Azure stuff. Once you have modified these lines flash the code to the Spark Core and watch your robot wave! 
